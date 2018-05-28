@@ -1,0 +1,29 @@
+{
+  "name": "discordmailbot",
+  "version": "1.0.0",
+  "description": "Discord bot to get email notifications.",
+  "main": "discordbot.js",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolgsantos/discordmailbot.git"
+  },
+  "keywords": [
+    "discord",
+    "git",
+    "mail",
+    "bot"
+  ],
+  "author": "Carolina Galvão dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolgsantos/discordmailbot/issues"
+  },
+  "homepage": "https://github.com/carolgsantos/discordmailbot#readme"
+}
